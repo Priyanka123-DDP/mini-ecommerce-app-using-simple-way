@@ -1,0 +1,28 @@
+# 🛒 Mini E-Commerce App
+
+## 📌 Project Description
+This is a simple Mini E-Commerce mobile application built using React Native and Redux.
+
+## 🚀 Features
+- Product List Screen
+- Add to Cart functionality
+- Increase / Decrease quantity
+- Remove items from cart
+- Total price calculation
+- Clear Cart option
+- Navigation between screens
+
+## 🛠️ Technologies Used
+- React Native
+- Redux Toolkit
+- React Navigation
+- Expo
+
+## 📱 How to Run
+1. Install dependencies
+2. Run `npm install`
+3. Start project using `npm start`
+
+## 👩‍💻 Author
+Devi Priyanka  
+MCA Final Year Internship Project
